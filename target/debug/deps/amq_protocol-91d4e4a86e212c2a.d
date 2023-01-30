@@ -1,0 +1,12 @@
+/home/jonathan/Desktop/tmp/fs-rs/target/debug/deps/amq_protocol-91d4e4a86e212c2a.rmeta: /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/lib.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/auth.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/frame/mod.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/frame/structs.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/frame/generation.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/frame/parsing.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/protocol.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/generated.rs
+
+/home/jonathan/Desktop/tmp/fs-rs/target/debug/deps/amq_protocol-91d4e4a86e212c2a.d: /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/lib.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/auth.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/frame/mod.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/frame/structs.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/frame/generation.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/frame/parsing.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/protocol.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/generated.rs
+
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/lib.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/auth.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/frame/mod.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/frame/structs.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/frame/generation.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/frame/parsing.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/protocol.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-7.0.1/src/generated.rs:

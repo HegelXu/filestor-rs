@@ -1,0 +1,11 @@
+/home/jonathan/Desktop/tmp/fs-rs/target/debug/deps/cookie_factory-df668a4b854346b0.rmeta: /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-factory-0.3.2/src/lib.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-factory-0.3.2/src/gen.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-factory-0.3.2/src/internal.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-factory-0.3.2/src/bytes.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-factory-0.3.2/src/combinator.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-factory-0.3.2/src/multi.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-factory-0.3.2/src/sequence.rs
+
+/home/jonathan/Desktop/tmp/fs-rs/target/debug/deps/cookie_factory-df668a4b854346b0.d: /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-factory-0.3.2/src/lib.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-factory-0.3.2/src/gen.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-factory-0.3.2/src/internal.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-factory-0.3.2/src/bytes.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-factory-0.3.2/src/combinator.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-factory-0.3.2/src/multi.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-factory-0.3.2/src/sequence.rs
+
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-factory-0.3.2/src/lib.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-factory-0.3.2/src/gen.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-factory-0.3.2/src/internal.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-factory-0.3.2/src/bytes.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-factory-0.3.2/src/combinator.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-factory-0.3.2/src/multi.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-factory-0.3.2/src/sequence.rs:
