@@ -1,0 +1,10 @@
+/home/jonathan/Desktop/tmp/fs-rs/target/debug/deps/amq_protocol_types-e01308c811e5de18.rmeta: /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-types-7.0.1/src/lib.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-types-7.0.1/src/types.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-types-7.0.1/src/value.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-types-7.0.1/src/flags.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-types-7.0.1/src/generation.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-types-7.0.1/src/parsing.rs
+
+/home/jonathan/Desktop/tmp/fs-rs/target/debug/deps/amq_protocol_types-e01308c811e5de18.d: /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-types-7.0.1/src/lib.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-types-7.0.1/src/types.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-types-7.0.1/src/value.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-types-7.0.1/src/flags.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-types-7.0.1/src/generation.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-types-7.0.1/src/parsing.rs
+
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-types-7.0.1/src/lib.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-types-7.0.1/src/types.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-types-7.0.1/src/value.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-types-7.0.1/src/flags.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-types-7.0.1/src/generation.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/amq-protocol-types-7.0.1/src/parsing.rs:

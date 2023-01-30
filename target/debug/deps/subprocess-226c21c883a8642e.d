@@ -1,0 +1,12 @@
+/home/jonathan/Desktop/tmp/fs-rs/target/debug/deps/subprocess-226c21c883a8642e.rmeta: /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/lib.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/builder.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/communicate.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/popen.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/posix.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/os_common.rs
+
+/home/jonathan/Desktop/tmp/fs-rs/target/debug/deps/libsubprocess-226c21c883a8642e.rlib: /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/lib.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/builder.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/communicate.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/popen.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/posix.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/os_common.rs
+
+/home/jonathan/Desktop/tmp/fs-rs/target/debug/deps/subprocess-226c21c883a8642e.d: /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/lib.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/builder.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/communicate.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/popen.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/posix.rs /home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/os_common.rs
+
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/lib.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/builder.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/communicate.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/popen.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/posix.rs:
+/home/jonathan/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/os_common.rs:
